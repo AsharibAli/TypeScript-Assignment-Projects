@@ -13,3 +13,6 @@ CLI(Command Line Interface) Based Projects
 • `asharib-ag`<br>
 • `asharib-quiz`<br>
 • `asharib-ct`<br>
+• `asharib-oop`<br>
+• `asharib-omb`<br>
+
