@@ -10,6 +10,7 @@ const answers: {
     }
 ]);
 
+
 const words = answers.Sentence.trim().split(" ")
 console.log(words);
 console.log(`Your sentence word count is ${words.length}`);
