@@ -1,0 +1,25 @@
+{
+  "name": "asharib-omb",
+  "version": "1.0.0",
+  "description": "oop mybank",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "asharib-omb": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "prompt": "^1.3.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.11.18",
+    "@types/prompt": "^1.1.4"
+  }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "gradient"
+  , "version": "0.2.0"
+  , "description": "A class for generating gradients."
+  , "homepage": "http://github.com/tstone/Gradient.js"
+  , "keywords": ["color", "gradient", "css"]
+  , "author": {
+        "name": "Titus",
+        "email": "wastingtape@gmail.com",
+        "url": "http://array.blue"
+    }
+  , "licenses": [{
+        "type":"MIT"
+      , "url":"http://github.com/tstone/gradient-js/blog/master/MIT.LICENSE"
+    }]
+  , "repository": {
+        "type": "git"
+      , "url": "http://github.com/tstone/Gradient.js.git"
+      , "web": "http://github.com/tstone/Gradient.js"
+    }
+    , "dependencies": {
+        "color": ">=0.4.0"
+    }
+  , "devDependencies": {
+        "browserify": "~1.1.0"
+      , "uglify-js": "1.0.x"
+    }
+  , "main": "gradient"
+  , "engines": [ "node >= 0.4"]
+}

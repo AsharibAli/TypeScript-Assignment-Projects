@@ -1,0 +1,30 @@
+{
+  "name": "asharib-calc",
+  "version": "1.0.1",
+  "description": "calculator",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "asharib-calc": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "chalk-animation": "^2.0.3",
+    "cli-spinners": "^2.7.0",
+    "figlet": "^1.5.2",
+    "gradient": "^0.2.0",
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.1",
+    "@types/figlet": "^1.5.5",
+    "@types/gradient-string": "^1.1.2",
+    "@types/inquirer": "^9.0.3"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "asharib-ngg",
+  "version": "1.0.1",
+  "description": "number-guessing-game",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "asharib-ngg": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
+
